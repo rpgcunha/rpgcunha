@@ -1,4 +1,4 @@
-## Hi, i´m Rui Cunha, Junior Developer!
+## 👋 Hi, i´m Rui Cunha, a Junior Developer from Portugal!
 
 <div>
   <a href= "https://https://github.com/rpgcunha">
@@ -23,7 +23,7 @@
   <br>
   <br>
 
-## Socials
+## 📫 Find me at
 <div> 
   <a href="https://www.linkedin.com/in/rpgcunha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/ruipcunha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
