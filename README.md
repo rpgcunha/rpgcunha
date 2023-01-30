@@ -39,7 +39,7 @@
   <a href="https://open.spotify.com/user/rpgcunha?si=7ba4c15c83df41f4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
-
+![snake gif](https://github.com/rpgcunha/rpgcunha/blob/output/github-contribution-grid-snake.gif)
 
 
  
