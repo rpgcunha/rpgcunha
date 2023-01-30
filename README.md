@@ -1,9 +1,9 @@
 ## 👋 Hi, i´m Rui Cunha, a Junior Developer from Portugal!
 
 <div>
-  <a href= "https://https://github.com/rpgcunha">
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=rpgcunha&count_private=true&show_icons=true&theme=dracula"/>
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpgcunha&langs_count=8&layout=compact&theme=dracula"/>
+  <a href= "https://github.com/rpgcunha">
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=rpgcunha&count_private=true&show_icons=true&theme=dracula"/>
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpgcunha&langs_count=8&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,6 +25,9 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
   <br>
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rpgcunha&cover_image=true&theme=default&show_offline=false&background_color=282a36&bar_color=dd6387&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
   <br>
 
 ## 📫 Find me at
@@ -34,9 +37,10 @@
   <a href = "mailto:rpgcunha@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
   <a href="https://twitter.com/rpgcunha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/rpgcunha?si=7ba4c15c83df41f4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/rpgcunha/rpgcunha/blob/output/github-contibution-grid-snake.svg)
 </div>
+
+
+
 
  
   
