@@ -1,4 +1,4 @@
-## Olá eu sou o Rui Cunha, desenvolvedor em aprendizagem!
+## Hi, i´m Rui Cunha, Junior Developer!
 
 <div>
   <a href= "https://https://github.com/rpgcunha">
