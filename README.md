@@ -26,11 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 30 January 2023
+From: 30 January 2023 - To: 31 January 2023
 
-Total Time: 0 secs
+Total Time: 3 hrs 30 mins
 
-Text   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+CSS          2 hrs 28 mins   >>>>>>>>>>>>>>>>>>-------   70.52 %
+HTML         45 mins         >>>>>--------------------   21.62 %
+JavaScript   16 mins         >>-----------------------   07.84 %
+Text         0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
