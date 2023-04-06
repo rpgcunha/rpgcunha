@@ -26,16 +26,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 03 April 2023
+From: 30 January 2023 - To: 04 April 2023
 
-Total Time: 76 hrs 51 mins
+Total Time: 78 hrs 42 mins
 
-C#           28 hrs 54 mins  >>>>>>>>>----------------   37.61 %
-CSHTML       18 hrs 39 mins  >>>>>>-------------------   24.28 %
-Binary       17 hrs 44 mins  >>>>>>-------------------   23.07 %
-CSS          4 hrs 34 mins   >------------------------   05.96 %
-HTML         2 hrs 9 mins    >------------------------   02.81 %
-Other        1 hr 54 mins    >------------------------   02.49 %
+C#           29 hrs 30 mins  >>>>>>>>>----------------   37.48 %
+CSHTML       18 hrs 58 mins  >>>>>>-------------------   24.10 %
+Binary       18 hrs 38 mins  >>>>>>-------------------   23.68 %
+CSS          4 hrs 36 mins   >------------------------   05.86 %
+HTML         2 hrs 9 mins    >------------------------   02.75 %
+Other        1 hr 54 mins    >------------------------   02.43 %
 ```
 
 <!--END_SECTION:waka-->
